@@ -1,8 +1,7 @@
 // insertion_sort.cpp
 
 #include "../include/insertion_sort.h" // Убедитесь, что путь к заголовочному файлу корректен
-#include <iostream>
-#include <vector>
+
 
 void insertion_sort(std::vector<int>& vec)
 {

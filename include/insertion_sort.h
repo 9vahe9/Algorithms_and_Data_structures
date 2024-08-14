@@ -4,6 +4,7 @@
 #define INSERTION_SORT_H
 
 #include <vector>
+#include <iostream>
 
 // Прототип функции сортировки вставками
 void insertion_sort(std::vector<int>& vec);
